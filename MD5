@@ -1,0 +1,7 @@
+8181820f6e7070641ab4c9e348b4a2af *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+e17d8e54b9dedda0fbcf084dd1e592d3 *R/LargeRegression.R
+9eb0ae28e041667b5b0e395479678062 *man/LargeRegression-package.Rd
+aa142cb3e7af0efe70c6c6f63a2abb9a *man/gradient.descent.Rd
+4ab6f22a5ebf0b7a5135dc1c7022fb2c *tests/test1.R
+03795252f96a1a3ca4c5b819b5c7552d *tests/test2.R
